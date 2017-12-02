@@ -1,2 +1,2 @@
-# data-analyse
-Data analysis of Datasets provided by Kirill Eremenko 
+# Data Analysis
+Python A-Z™ : Python for Data Sciences with Kirill Eremenko
